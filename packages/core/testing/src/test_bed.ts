@@ -669,7 +669,7 @@ function _getTestBedViewEngine(): TestBedViewEngine {
  * it('...', inject([AClass], (object) => {
  *   object.doSomething();
  *   expect(...);
- * })
+ * }));
  * ```
  *
  * Notes:
